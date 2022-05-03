@@ -2,6 +2,8 @@
 
 BVT Practice
 
+Languages: HTML, CSS
+
 The FOCUS of this assignment is to build a SIMPLE responsive web page layout with Bootstrap grid (at least 1).
 
 practice.html:
